@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-09)
+## Unreleased (2025-02-18)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5a7aa5f`](https://github.com/stdlib-js/stdlib/commit/5a7aa5f8ce1bc39cb8bf450454e4faddeae5a245) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`d53a818`](https://github.com/stdlib-js/stdlib/commit/d53a8184c029c3df7c45a7a1a2da9ff90b4f883e) - **docs:** fix errors in the structure of READMEs in `stats/base/*` [(#5138)](https://github.com/stdlib-js/stdlib/pull/5138) _(by Aayush Khanna)_
 -   [`deabf53`](https://github.com/stdlib-js/stdlib/commit/deabf5358fdce4a99aa6f060e3d296a69538ed24) - **feat:** add C `ndarray` interface and refactor implementation for `stats/base/dsmeanpw` [(#4338)](https://github.com/stdlib-js/stdlib/pull/4338) _(by Neeraj Pathak, stdlib-bot)_
 -   [`b8d6ca8`](https://github.com/stdlib-js/stdlib/commit/b8d6ca805497d4ec93ffacb02d4c654a75b537da) - **refactor:** update `stats/base/dsmeanpw` native addon from C++ to C [(#4724)](https://github.com/stdlib-js/stdlib/pull/4724) _(by Prashant Kumar Yadav)_
